@@ -1,0 +1,6 @@
+{
+  "name": "Apple Calendar & Deadlines",
+  "description": "An elegant, Apple-designed calendar and task planner to organize schedules, track deadlines, and master daily focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
